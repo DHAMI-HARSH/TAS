@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato&display=swap');
+#first{
+    background-color: #92b4a738;
+    color: white;
+    border: 2px solid #93827f;
+    border-radius: 6px;
+    padding: 12px 30px;
+    width: 20%;
+}
+.main{
+    height: 100vh;
+}
+.head{
+    margin-left: 200px;
+    font-size: 40px;
+    letter-spacing: 8px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fcfc;
+    margin-bottom: 70px;
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec1 input{
+    margin: 50px;
+}
+#second{
+    background-color: #92b4a738;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    width: 20%;
+    border: 2px solid #93827f;
+    border-radius: 6px;
+}
+.sec2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec2 input{
+    margin: 50px;
+}
+#mail{
+    background-color: #92b4a738;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    width: 20%;
+    border: 2px solid #93827f;
+    border-radius: 6px;
+}
+#num{
+    background-color: #92b4a738;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    width: 20%;
+    border: 2px solid #93827f;
+    border-radius: 6px;
+}
+.submit-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.submit-button button{
+    background-color: #f3f9d2;
+    padding: 10px 30px;
+    margin: 10px;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 3px solid black;
+}

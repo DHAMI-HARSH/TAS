@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato&display=swap');
+#container{
+    height: 100vh;
+    width: 100%;
+    min-width: auto;
+    display: flex;
+    flex-direction: column;
+}
+.mainD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 5px;
+    font-size: 40px;
+    color: #92b4a777;
+}
